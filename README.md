@@ -1,2 +1,2 @@
-# Cypher IT Project - GardiesMates
+# Cypher Project - GardiesMates
 For Gardies Mate website project
